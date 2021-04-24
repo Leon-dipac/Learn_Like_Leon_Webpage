@@ -1,0 +1,26 @@
+/*
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    margin: 0px;
+    
+}
+
+*/
+
+.container, p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron{
+    font-family: 'Tangerine', serif;
+}
+
+/*
+
+    Let's change the style of the modal button
+.btn-primary:hover{
+    background-color: black;
+}
+
+*/
